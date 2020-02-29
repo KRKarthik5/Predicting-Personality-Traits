@@ -1,5 +1,5 @@
 # Predicting-Personality-Traits
-Predicting Personality Traits using ChaLearn First impressions Dataset using Facial Features and Gaze Features as the modalities <br>
+Predicting Personality Traits with ChaLearn First impressions Dataset using Facial Features and Gaze Features as the modalities <br>
 For detailed know how about the steps to execute the code, please refer the How-To document <br>
 For a detailed report on the work, contact one of the authors by email
 # Acknowledgments
